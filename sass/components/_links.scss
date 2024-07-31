@@ -1,0 +1,23 @@
+.link {
+font-size: 32px;
+color: $white;
+padding: 8px;
+font-size: 16px;
+border: 3px;
+
+&:hover{
+    color: $gray ;
+}
+}
+
+.link-primary{
+    color: $primary;
+}
+
+.link-shadow{
+    color: $shadow;
+}
+
+.link-secundary{
+    color: $secundary;
+}

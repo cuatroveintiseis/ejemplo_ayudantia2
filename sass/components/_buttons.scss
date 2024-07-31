@@ -1,0 +1,25 @@
+.button {
+padding: 8px;
+font-size: 16px;
+
+}
+
+.button:hover{
+    background-color: $gray;
+}
+
+.btn-blue{
+    background-color: $blue;
+    color: $white;
+}
+
+.btn-orange{
+    background-color: $orange;
+    color: $white;
+
+}
+
+.btn-white {
+    background-color: $semiWhite;
+    color: $black;
+}
